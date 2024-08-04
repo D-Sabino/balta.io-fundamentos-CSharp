@@ -22,7 +22,15 @@
   - Linguagem compilada e interpretada
   - Tipagem de dados
   - Revisão
-- [ ] Seção 02: C#<br>
+
+- [X] Seção 02: C#<br>
+  - Por que utilizar C#?
+  - C# como primeira linguagem
+  - Código gerenciado
+  - Compilação e gerenciamento
+  - IL
+  - Revisão
+
 - [ ] Seção 03: Frameworks <br>
 - [ ] Seção 04: .NET <br>
 - [ ] Seção 05: Linguagem de Programação com C#<br>
