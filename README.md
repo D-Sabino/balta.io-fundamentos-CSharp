@@ -32,6 +32,12 @@
   - Revisão
 
 - [ ] Seção 03: Frameworks <br>
+  - Frameworks
+  - .NET Framework
+  - .NET Core
+  - .NET Standard
+  - .NET 5
+  
 - [ ] Seção 04: .NET <br>
 - [ ] Seção 05: Linguagem de Programação com C#<br>
 - [ ] Seção 06: Mão na massa: Criando uma calculadora<br>
