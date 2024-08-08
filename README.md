@@ -31,12 +31,16 @@
   - IL
   - Revisão
 
-- [ ] Seção 03: Frameworks <br>
+- [X] Seção 03: Frameworks <br>
   - Frameworks
   - .NET Framework
   - .NET Core
   - .NET Standard
   - .NET 5
+  - LTS
+  - Versionamento
+  - Runtime e SDK
+  - Revisão
   
 - [ ] Seção 04: .NET <br>
 - [ ] Seção 05: Linguagem de Programação com C#<br>
