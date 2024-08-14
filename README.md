@@ -43,6 +43,16 @@
   - Revisão
   
 - [ ] Seção 04: .NET <br>
+  - Instalação
+  - .NET CLI
+  - VS Code
+  - Tipos de projeto
+  - Fluxo de execução
+  - Variáveis de ambiente
+  - Estrutura do app
+  - Debug
+  - Revisão
+  
 - [ ] Seção 05: Linguagem de Programação com C#<br>
 - [ ] Seção 06: Mão na massa: Criando uma calculadora<br>
 - [ ] Seção 07: Mão na massa: Cronômetro<br>
