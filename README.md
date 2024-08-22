@@ -42,7 +42,7 @@
   - Runtime e SDK
   - Revisão
   
-- [ ] Seção 04: .NET <br>
+- [X] Seção 04: .NET <br>
   - Instalação
   - .NET CLI
   - VS Code
