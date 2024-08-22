@@ -54,6 +54,18 @@
   - Revisão
   
 - [ ] Seção 05: Linguagem de Programação com C#<br>
+  - Notas importantes
+  - Escopo de um programa
+  - Namespaces
+  - Using
+  - Variáveis
+  - Constantes
+  - Palavras reservadas
+  - Comentários
+  - Tipos primitivos
+  - System
+  - Byte
+  
 - [ ] Seção 06: Mão na massa: Criando uma calculadora<br>
 - [ ] Seção 07: Mão na massa: Cronômetro<br>
 - [ ] Seção 08: Mão na massa: Editor de Textos<br>
