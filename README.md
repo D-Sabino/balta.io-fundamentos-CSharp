@@ -65,6 +65,21 @@
   - Tipos primitivos
   - System
   - Byte
+  - Números inteiros
+  - Números reais
+  - Boolean
+  - Char
+  - String
+  - Var
+  - Object
+  - Nullabel Types
+  - Alias
+  - Valores padrões
+  - Conversão implícita
+  - Conversão explícita
+  - Parse
+  - Convert
+  - Convertendo tipos
   
 - [ ] Seção 06: Mão na massa: Criando uma calculadora<br>
 - [ ] Seção 07: Mão na massa: Cronômetro<br>
