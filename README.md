@@ -80,6 +80,25 @@
   - Parse
   - Convert
   - Convertendo tipos
+  - Operadores aritméticos
+  - Operadores de atribuição
+  - Operadores de comparação
+  - Utilizando operadores
+  - Operadores lógicos
+  - Operador condicional: IF
+  - Utilizando IF
+  - Estrutura condicional: Switch
+  - Laços de repetição: For
+  - Laços de repetição: While
+  - Laços de repetição: Do/While
+  - Métodos e funções
+  - Métodos e funções: Prática
+  - Value Types e Reference Types
+  - Value Types e Reference Types: Prática
+  - Structs
+  - Structs: Prática
+  - Enums
+  - Revisão
   
 - [ ] Seção 06: Mão na massa: Criando uma calculadora<br>
 - [ ] Seção 07: Mão na massa: Cronômetro<br>
