@@ -53,7 +53,7 @@
   - Debug
   - Revisão
   
-- [ ] Seção 05: Linguagem de Programação com C#<br>
+- [X] Seção 05: Linguagem de Programação com C#<br>
   - Notas importantes
   - Escopo de um programa
   - Namespaces
@@ -101,6 +101,17 @@
   - Revisão
   
 - [ ] Seção 06: Mão na massa: Criando uma calculadora<br>
+  - Iniciando o projeto
+  - Soma
+  - Utilizando funções
+  - Subtração
+  - Divisão
+  - Multiplicação
+  - Menu de aplicação
+  - Chamando as funções
+  - Saindo da aplicação
+  - Revisão
+  
 - [ ] Seção 07: Mão na massa: Cronômetro<br>
 - [ ] Seção 08: Mão na massa: Editor de Textos<br>
 - [ ] Seção 09: Strings<br>
