@@ -1,0 +1,15 @@
+C:\Users\felil\OneDrive\Área de Trabalho\Cursos\balta.io\balta.io-fundamentos-CSharp\TextEditor\bin\Debug\net8.0\TextEditor.exe
+C:\Users\felil\OneDrive\Área de Trabalho\Cursos\balta.io\balta.io-fundamentos-CSharp\TextEditor\bin\Debug\net8.0\TextEditor.deps.json
+C:\Users\felil\OneDrive\Área de Trabalho\Cursos\balta.io\balta.io-fundamentos-CSharp\TextEditor\bin\Debug\net8.0\TextEditor.runtimeconfig.json
+C:\Users\felil\OneDrive\Área de Trabalho\Cursos\balta.io\balta.io-fundamentos-CSharp\TextEditor\bin\Debug\net8.0\TextEditor.dll
+C:\Users\felil\OneDrive\Área de Trabalho\Cursos\balta.io\balta.io-fundamentos-CSharp\TextEditor\bin\Debug\net8.0\TextEditor.pdb
+C:\Users\felil\OneDrive\Área de Trabalho\Cursos\balta.io\balta.io-fundamentos-CSharp\TextEditor\obj\Debug\net8.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felil\OneDrive\Área de Trabalho\Cursos\balta.io\balta.io-fundamentos-CSharp\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfoInputs.cache
+C:\Users\felil\OneDrive\Área de Trabalho\Cursos\balta.io\balta.io-fundamentos-CSharp\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfo.cs
+C:\Users\felil\OneDrive\Área de Trabalho\Cursos\balta.io\balta.io-fundamentos-CSharp\TextEditor\obj\Debug\net8.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\felil\OneDrive\Área de Trabalho\Cursos\balta.io\balta.io-fundamentos-CSharp\TextEditor\obj\Debug\net8.0\TextEditor.sourcelink.json
+C:\Users\felil\OneDrive\Área de Trabalho\Cursos\balta.io\balta.io-fundamentos-CSharp\TextEditor\obj\Debug\net8.0\TextEditor.dll
+C:\Users\felil\OneDrive\Área de Trabalho\Cursos\balta.io\balta.io-fundamentos-CSharp\TextEditor\obj\Debug\net8.0\refint\TextEditor.dll
+C:\Users\felil\OneDrive\Área de Trabalho\Cursos\balta.io\balta.io-fundamentos-CSharp\TextEditor\obj\Debug\net8.0\TextEditor.pdb
+C:\Users\felil\OneDrive\Área de Trabalho\Cursos\balta.io\balta.io-fundamentos-CSharp\TextEditor\obj\Debug\net8.0\TextEditor.genruntimeconfig.cache
+C:\Users\felil\OneDrive\Área de Trabalho\Cursos\balta.io\balta.io-fundamentos-CSharp\TextEditor\obj\Debug\net8.0\ref\TextEditor.dll
